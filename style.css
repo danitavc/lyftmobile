@@ -1,0 +1,13 @@
+* {
+	background-color: #C61BCE
+}
+
+img {
+	height: 200px;
+	width: auto;
+	margin-top: 200px;
+}
+
+.col.s12 {
+	text-align: center;
+}
